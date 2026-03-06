@@ -1,4 +1,5 @@
 @echo off
+cd /d "%~dp0"
 title VK Spine Stok - Calisiyor
 color 0A
 

@@ -1,5 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
+cd /d "%~dp0"
 title VK Spine Stok - Otomatik Kurulum ve Baslatma 
 color 0B
 
